@@ -1,0 +1,4 @@
+- 17-06-206 14:31 commit 1
+- 17-06-206 14:39 `tag -a 1.0.0 -m 'Team Founder'` on commit 1
+- 17-06-206 14:31 commit 2
+- 17-06-206 14:59 `tag -a 1.0.0-hotfix -m 'Team Founder fix 1.0.0'` on commit 2
